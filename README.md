@@ -1,2 +1,2 @@
 # Musa-Ahmed
-Lecturer, Researcher,Full stack Software Engineer ,Student at ALX
+Lecturer of Computer Science, Researcher,Full stack Software Engineer ,Student at ALX
